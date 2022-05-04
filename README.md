@@ -1,1 +1,7 @@
-# how-to-build-a-minecraft-server
+## Minecraft腐竹教程
+
+欢迎来到此教程。
+
+侧边栏拥有导航，但最好尝试一下搜索。
+
+此文档使用[CC 0](/LICENSE)协议授权。
